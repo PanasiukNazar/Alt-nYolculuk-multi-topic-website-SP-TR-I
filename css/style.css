@@ -439,7 +439,6 @@ body {
 
 .team-item .team-text {
     height: 90px;
-    overflow: hidden;
 }
 
 .team-item .team-text .bg-light,
