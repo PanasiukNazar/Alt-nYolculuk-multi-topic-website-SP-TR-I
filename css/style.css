@@ -18,6 +18,13 @@
     z-index: 99;
 }
 
+html {
+    overflow-x: hidden;
+}
+body {
+    overflow-x: hidden;
+}
+
 /*** Spinner ***/
 #spinner {
     opacity: 0;
