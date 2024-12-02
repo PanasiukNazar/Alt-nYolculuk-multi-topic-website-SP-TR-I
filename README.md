@@ -1,1 +1,1 @@
-[DEMO](https://panasiuknazar.github.io/Alt-nYolculuk-multi-topic-website-SP-TR-I/)
+[DEMO](https://panasiuknazar.github.io/GezginRota-traveling-website-SP-TR-I/)
